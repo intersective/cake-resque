@@ -19,12 +19,12 @@
 			"role": "Developer"
 		}
 	],
-	 "repositories": [
-    {
+	"repositories": [
+       {
         "type": "git",
 		"url": "https://github.com/intersective/php-resque-ex.git"
-    },
-	 ],
+       }
+	],
 	"minimum-stability": "dev",
 	"license": "MIT",
 	"require": {
