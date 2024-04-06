@@ -38,6 +38,7 @@
   "require-dev": {
     "mikey179/vfsStream": ">=1.2.0"
   },
+  "minimum-stability": "dev",
   "support": {
     "email": "kami@kamisama.me",
     "issues": "https://github.com/kamisama/Cake-Resque/issues",
